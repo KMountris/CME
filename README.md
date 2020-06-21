@@ -1,4 +1,4 @@
-# cme
+# CME
 
 Cell-based Maximum Entropy (CME) approximants for 2-/3-D meshless simulations.
 
